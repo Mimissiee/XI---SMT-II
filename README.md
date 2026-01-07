@@ -1,0 +1,1 @@
+MVC adalah cara menyusun aplikasi dengan membaginya jadi 3 bagian: Model untuk mengurus data dan prosesnya, View untuk tampilan yang dilihat pengguna, dan Controller sebagai penghubung yang mengatur input, memproses lewat Model, lalu menampilkan hasil di View. Pembagian ini bikin aplikasi lebih rapi dan mudah diedit.
