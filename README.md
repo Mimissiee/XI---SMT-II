@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MVC (Model View Controller)
 ## Model
 Model bertugas mengelola data dan logika bisnis.
@@ -35,3 +36,6 @@ Controller adalah penghubung antara Model dan View.
 ### Contoh:
 - `UserController`
 - `LoginController`
+=======
+MVC adalah cara menyusun aplikasi dengan membaginya jadi 3 bagian: Model untuk mengurus data dan prosesnya, View untuk tampilan yang dilihat pengguna, dan Controller sebagai penghubung yang mengatur input, memproses lewat Model, lalu menampilkan hasil di View. Pembagian ini bikin aplikasi lebih rapi dan mudah diedit.
+>>>>>>> 075f7d9804223705da6ecb5e2b8823a4fce1e13a
